@@ -1,0 +1,3 @@
+C:/Users/kosta/Desktop/menedzer_hasel/cmake-build-debug/CMakeFiles/menedzer_hasel.dir
+C:/Users/kosta/Desktop/menedzer_hasel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kosta/Desktop/menedzer_hasel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
