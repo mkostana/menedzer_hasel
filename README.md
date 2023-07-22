@@ -1,0 +1,1 @@
+# menedzer_hasel
